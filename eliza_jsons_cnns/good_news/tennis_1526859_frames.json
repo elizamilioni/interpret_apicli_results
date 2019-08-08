@@ -1,0 +1,2688 @@
+{
+ "frames": [
+  {
+   "speakers": null, 
+   "no": 1, 
+   "st": 0.0, 
+   "intensity": {
+    "uptonow": 66.81, 
+    "framelevel": 66.81
+   }, 
+   "et": 0.02, 
+   "aced": "SIL"
+  }, 
+  {
+   "speakers": null, 
+   "no": 6, 
+   "st": 0.1, 
+   "intensity": {
+    "uptonow": 66.89, 
+    "framelevel": 67.51
+   }, 
+   "et": 0.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 11, 
+   "st": 0.2, 
+   "intensity": {
+    "uptonow": 67.17, 
+    "framelevel": 67.12
+   }, 
+   "et": 0.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 16, 
+   "st": 0.3, 
+   "intensity": {
+    "uptonow": 67.25, 
+    "framelevel": 65.94
+   }, 
+   "et": 0.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 21, 
+   "st": 0.4, 
+   "intensity": {
+    "uptonow": 67.15, 
+    "framelevel": 65.75
+   }, 
+   "et": 0.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 26, 
+   "st": 0.5, 
+   "intensity": {
+    "uptonow": 67.35, 
+    "framelevel": 69.36
+   }, 
+   "et": 0.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 31, 
+   "st": 0.6, 
+   "intensity": {
+    "uptonow": 67.59, 
+    "framelevel": 69.35
+   }, 
+   "et": 0.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 36, 
+   "st": 0.7, 
+   "intensity": {
+    "uptonow": 67.69, 
+    "framelevel": 68.51
+   }, 
+   "et": 0.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 41, 
+   "st": 0.8, 
+   "intensity": {
+    "uptonow": 67.68, 
+    "framelevel": 66.51
+   }, 
+   "et": 0.82, 
+   "aced": "SP1"
+  }, 
+  {
+   "speakers": null, 
+   "no": 46, 
+   "st": 0.9, 
+   "intensity": {
+    "uptonow": 67.74, 
+    "framelevel": 69.67
+   }, 
+   "et": 0.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 51, 
+   "st": 1.0, 
+   "intensity": {
+    "uptonow": 67.78, 
+    "framelevel": 69.16
+   }, 
+   "et": 1.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 56, 
+   "st": 1.1, 
+   "intensity": {
+    "uptonow": 67.84, 
+    "framelevel": 69.06
+   }, 
+   "et": 1.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 61, 
+   "st": 1.2, 
+   "intensity": {
+    "uptonow": 67.9, 
+    "framelevel": 68.61
+   }, 
+   "et": 1.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 66, 
+   "st": 1.3, 
+   "intensity": {
+    "uptonow": 67.82, 
+    "framelevel": 67.95
+   }, 
+   "et": 1.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 71, 
+   "st": 1.4, 
+   "intensity": {
+    "uptonow": 67.83, 
+    "framelevel": 66.39
+   }, 
+   "et": 1.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 76, 
+   "st": 1.5, 
+   "intensity": {
+    "uptonow": 67.85, 
+    "framelevel": 69.15
+   }, 
+   "et": 1.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 81, 
+   "st": 1.6, 
+   "intensity": {
+    "uptonow": 67.9, 
+    "framelevel": 69.24
+   }, 
+   "et": 1.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 86, 
+   "st": 1.7, 
+   "intensity": {
+    "uptonow": 67.93, 
+    "framelevel": 70.47
+   }, 
+   "et": 1.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 91, 
+   "st": 1.8, 
+   "intensity": {
+    "uptonow": 68.02, 
+    "framelevel": 71.31
+   }, 
+   "et": 1.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 96, 
+   "st": 1.9, 
+   "intensity": {
+    "uptonow": 67.97, 
+    "framelevel": 66.76
+   }, 
+   "et": 1.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 101, 
+   "st": 2.0, 
+   "intensity": {
+    "uptonow": 68.0, 
+    "framelevel": 68.91
+   }, 
+   "et": 2.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 106, 
+   "st": 2.1, 
+   "intensity": {
+    "uptonow": 67.95, 
+    "framelevel": 67.28
+   }, 
+   "et": 2.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 111, 
+   "st": 2.2, 
+   "intensity": {
+    "uptonow": 67.93, 
+    "framelevel": 69.42
+   }, 
+   "et": 2.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 116, 
+   "st": 2.3, 
+   "intensity": {
+    "uptonow": 67.99, 
+    "framelevel": 70.45
+   }, 
+   "et": 2.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 121, 
+   "st": 2.4, 
+   "intensity": {
+    "uptonow": 67.97, 
+    "framelevel": 67.31
+   }, 
+   "et": 2.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 126, 
+   "st": 2.5, 
+   "intensity": {
+    "uptonow": 68.0, 
+    "framelevel": 70.47
+   }, 
+   "et": 2.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 131, 
+   "st": 2.6, 
+   "intensity": {
+    "uptonow": 68.05, 
+    "framelevel": 69.88
+   }, 
+   "et": 2.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 136, 
+   "st": 2.7, 
+   "intensity": {
+    "uptonow": 68.11, 
+    "framelevel": 69.38
+   }, 
+   "et": 2.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 141, 
+   "st": 2.8, 
+   "intensity": {
+    "uptonow": 68.13, 
+    "framelevel": 67.19
+   }, 
+   "et": 2.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 146, 
+   "st": 2.9, 
+   "intensity": {
+    "uptonow": 68.09, 
+    "framelevel": 67.51
+   }, 
+   "et": 2.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 151, 
+   "st": 3.0, 
+   "intensity": {
+    "uptonow": 68.06, 
+    "framelevel": 68.09
+   }, 
+   "et": 3.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 156, 
+   "st": 3.1, 
+   "intensity": {
+    "uptonow": 68.08, 
+    "framelevel": 67.48
+   }, 
+   "et": 3.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 161, 
+   "st": 3.2, 
+   "intensity": {
+    "uptonow": 68.11, 
+    "framelevel": 68.65
+   }, 
+   "et": 3.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 166, 
+   "st": 3.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.97
+   }, 
+   "et": 3.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 171, 
+   "st": 3.4, 
+   "intensity": {
+    "uptonow": 68.07, 
+    "framelevel": 65.16
+   }, 
+   "et": 3.42, 
+   "aced": "SIL"
+  }, 
+  {
+   "speakers": null, 
+   "no": 176, 
+   "st": 3.5, 
+   "intensity": {
+    "uptonow": 68.02, 
+    "framelevel": 65.55
+   }, 
+   "et": 3.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 181, 
+   "st": 3.6, 
+   "intensity": {
+    "uptonow": 67.99, 
+    "framelevel": 67.46
+   }, 
+   "et": 3.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 186, 
+   "st": 3.7, 
+   "intensity": {
+    "uptonow": 67.95, 
+    "framelevel": 66.99
+   }, 
+   "et": 3.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 191, 
+   "st": 3.8, 
+   "intensity": {
+    "uptonow": 67.9, 
+    "framelevel": 66.09
+   }, 
+   "et": 3.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 196, 
+   "st": 3.9, 
+   "intensity": {
+    "uptonow": 67.85, 
+    "framelevel": 64.55
+   }, 
+   "et": 3.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 201, 
+   "st": 4.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.58
+   }, 
+   "et": 4.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 206, 
+   "st": 4.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.84
+   }, 
+   "et": 4.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 211, 
+   "st": 4.2, 
+   "intensity": {
+    "uptonow": 67.81, 
+    "framelevel": 64.93
+   }, 
+   "et": 4.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 216, 
+   "st": 4.3, 
+   "intensity": {
+    "uptonow": 67.76, 
+    "framelevel": 66.12
+   }, 
+   "et": 4.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 221, 
+   "st": 4.4, 
+   "intensity": {
+    "uptonow": 67.72, 
+    "framelevel": 65.38
+   }, 
+   "et": 4.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 226, 
+   "st": 4.5, 
+   "intensity": {
+    "uptonow": 67.68, 
+    "framelevel": 67.7
+   }, 
+   "et": 4.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 231, 
+   "st": 4.6, 
+   "intensity": {
+    "uptonow": 67.69, 
+    "framelevel": 67.83
+   }, 
+   "et": 4.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 236, 
+   "st": 4.7, 
+   "intensity": {
+    "uptonow": 67.68, 
+    "framelevel": 67.4
+   }, 
+   "et": 4.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 241, 
+   "st": 4.8, 
+   "intensity": {
+    "uptonow": 67.65, 
+    "framelevel": 65.49
+   }, 
+   "et": 4.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 246, 
+   "st": 4.9, 
+   "intensity": {
+    "uptonow": 67.61, 
+    "framelevel": 64.58
+   }, 
+   "et": 4.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 251, 
+   "st": 5.0, 
+   "intensity": {
+    "uptonow": 67.59, 
+    "framelevel": 65.49
+   }, 
+   "et": 5.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 256, 
+   "st": 5.1, 
+   "intensity": {
+    "uptonow": 67.57, 
+    "framelevel": 66.94
+   }, 
+   "et": 5.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 261, 
+   "st": 5.2, 
+   "intensity": {
+    "uptonow": 67.56, 
+    "framelevel": 68.22
+   }, 
+   "et": 5.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 266, 
+   "st": 5.3, 
+   "intensity": {
+    "uptonow": 67.55, 
+    "framelevel": 66.86
+   }, 
+   "et": 5.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 271, 
+   "st": 5.4, 
+   "intensity": {
+    "uptonow": 67.53, 
+    "framelevel": 66.2
+   }, 
+   "et": 5.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 276, 
+   "st": 5.5, 
+   "intensity": {
+    "uptonow": 67.51, 
+    "framelevel": 67.57
+   }, 
+   "et": 5.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 281, 
+   "st": 5.6, 
+   "intensity": {
+    "uptonow": 67.5, 
+    "framelevel": 67.19
+   }, 
+   "et": 5.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 286, 
+   "st": 5.7, 
+   "intensity": {
+    "uptonow": 67.47, 
+    "framelevel": 65.01
+   }, 
+   "et": 5.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 291, 
+   "st": 5.8, 
+   "intensity": {
+    "uptonow": 67.44, 
+    "framelevel": 66.95
+   }, 
+   "et": 5.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 296, 
+   "st": 5.9, 
+   "intensity": {
+    "uptonow": 67.42, 
+    "framelevel": 67.63
+   }, 
+   "et": 5.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 301, 
+   "st": 6.0, 
+   "intensity": {
+    "uptonow": 67.39, 
+    "framelevel": 65.98
+   }, 
+   "et": 6.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 306, 
+   "st": 6.1, 
+   "intensity": {
+    "uptonow": 67.37, 
+    "framelevel": 65.53
+   }, 
+   "et": 6.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 311, 
+   "st": 6.2, 
+   "intensity": {
+    "uptonow": 67.35, 
+    "framelevel": 65.8
+   }, 
+   "et": 6.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 316, 
+   "st": 6.3, 
+   "intensity": {
+    "uptonow": 67.34, 
+    "framelevel": 67.44
+   }, 
+   "et": 6.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 321, 
+   "st": 6.4, 
+   "intensity": {
+    "uptonow": 67.31, 
+    "framelevel": 66.18
+   }, 
+   "et": 6.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 326, 
+   "st": 6.5, 
+   "intensity": {
+    "uptonow": 67.3, 
+    "framelevel": 66.95
+   }, 
+   "et": 6.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 331, 
+   "st": 6.6, 
+   "intensity": {
+    "uptonow": 67.28, 
+    "framelevel": 66.02
+   }, 
+   "et": 6.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 336, 
+   "st": 6.7, 
+   "intensity": {
+    "uptonow": 67.26, 
+    "framelevel": 66.06
+   }, 
+   "et": 6.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 341, 
+   "st": 6.8, 
+   "intensity": {
+    "uptonow": 67.25, 
+    "framelevel": 66.49
+   }, 
+   "et": 6.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 346, 
+   "st": 6.9, 
+   "intensity": {
+    "uptonow": 67.23, 
+    "framelevel": 68.37
+   }, 
+   "et": 6.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 351, 
+   "st": 7.0, 
+   "intensity": {
+    "uptonow": 67.21, 
+    "framelevel": 66.15
+   }, 
+   "et": 7.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 356, 
+   "st": 7.1, 
+   "intensity": {
+    "uptonow": 67.19, 
+    "framelevel": 66.11
+   }, 
+   "et": 7.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 361, 
+   "st": 7.2, 
+   "intensity": {
+    "uptonow": 67.17, 
+    "framelevel": 66.54
+   }, 
+   "et": 7.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 366, 
+   "st": 7.3, 
+   "intensity": {
+    "uptonow": 67.16, 
+    "framelevel": 65.67
+   }, 
+   "et": 7.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 371, 
+   "st": 7.4, 
+   "intensity": {
+    "uptonow": 67.15, 
+    "framelevel": 65.95
+   }, 
+   "et": 7.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 376, 
+   "st": 7.5, 
+   "intensity": {
+    "uptonow": 67.13, 
+    "framelevel": 65.99
+   }, 
+   "et": 7.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 381, 
+   "st": 7.6, 
+   "intensity": {
+    "uptonow": 67.12, 
+    "framelevel": 66.44
+   }, 
+   "et": 7.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 386, 
+   "st": 7.7, 
+   "intensity": {
+    "uptonow": 67.1, 
+    "framelevel": 66.24
+   }, 
+   "et": 7.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 391, 
+   "st": 7.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.89
+   }, 
+   "et": 7.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 396, 
+   "st": 7.9, 
+   "intensity": {
+    "uptonow": 67.08, 
+    "framelevel": 65.99
+   }, 
+   "et": 7.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 401, 
+   "st": 8.0, 
+   "intensity": {
+    "uptonow": 67.06, 
+    "framelevel": 66.08
+   }, 
+   "et": 8.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 406, 
+   "st": 8.1, 
+   "intensity": {
+    "uptonow": 67.04, 
+    "framelevel": 66.12
+   }, 
+   "et": 8.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 411, 
+   "st": 8.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.91
+   }, 
+   "et": 8.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 416, 
+   "st": 8.3, 
+   "intensity": {
+    "uptonow": 67.01, 
+    "framelevel": 65.07
+   }, 
+   "et": 8.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 421, 
+   "st": 8.4, 
+   "intensity": {
+    "uptonow": 66.99, 
+    "framelevel": 64.99
+   }, 
+   "et": 8.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 426, 
+   "st": 8.5, 
+   "intensity": {
+    "uptonow": 66.98, 
+    "framelevel": 65.53
+   }, 
+   "et": 8.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 431, 
+   "st": 8.6, 
+   "intensity": {
+    "uptonow": 66.97, 
+    "framelevel": 65.64
+   }, 
+   "et": 8.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 436, 
+   "st": 8.7, 
+   "intensity": {
+    "uptonow": 66.96, 
+    "framelevel": 67.61
+   }, 
+   "et": 8.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 441, 
+   "st": 8.8, 
+   "intensity": {
+    "uptonow": 66.95, 
+    "framelevel": 66.32
+   }, 
+   "et": 8.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 446, 
+   "st": 8.9, 
+   "intensity": {
+    "uptonow": 66.93, 
+    "framelevel": 64.75
+   }, 
+   "et": 8.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 451, 
+   "st": 9.0, 
+   "intensity": {
+    "uptonow": 66.92, 
+    "framelevel": 67.0
+   }, 
+   "et": 9.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 456, 
+   "st": 9.1, 
+   "intensity": {
+    "uptonow": 66.91, 
+    "framelevel": 66.64
+   }, 
+   "et": 9.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 461, 
+   "st": 9.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.88
+   }, 
+   "et": 9.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 466, 
+   "st": 9.3, 
+   "intensity": {
+    "uptonow": 66.9, 
+    "framelevel": 66.28
+   }, 
+   "et": 9.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 471, 
+   "st": 9.4, 
+   "intensity": {
+    "uptonow": 66.89, 
+    "framelevel": 67.64
+   }, 
+   "et": 9.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 476, 
+   "st": 9.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.43
+   }, 
+   "et": 9.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 481, 
+   "st": 9.6, 
+   "intensity": {
+    "uptonow": 66.87, 
+    "framelevel": 64.69
+   }, 
+   "et": 9.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 486, 
+   "st": 9.7, 
+   "intensity": {
+    "uptonow": 66.86, 
+    "framelevel": 64.81
+   }, 
+   "et": 9.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 491, 
+   "st": 9.8, 
+   "intensity": {
+    "uptonow": 66.85, 
+    "framelevel": 65.05
+   }, 
+   "et": 9.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 496, 
+   "st": 9.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.32
+   }, 
+   "et": 9.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 501, 
+   "st": 10.0, 
+   "intensity": {
+    "uptonow": 66.84, 
+    "framelevel": 65.53
+   }, 
+   "et": 10.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 506, 
+   "st": 10.1, 
+   "intensity": {
+    "uptonow": 66.83, 
+    "framelevel": 66.67
+   }, 
+   "et": 10.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 511, 
+   "st": 10.2, 
+   "intensity": {
+    "uptonow": 66.82, 
+    "framelevel": 65.68
+   }, 
+   "et": 10.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 516, 
+   "st": 10.3, 
+   "intensity": {
+    "uptonow": 66.81, 
+    "framelevel": 64.83
+   }, 
+   "et": 10.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 521, 
+   "st": 10.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.75
+   }, 
+   "et": 10.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 526, 
+   "st": 10.5, 
+   "intensity": {
+    "uptonow": 66.8, 
+    "framelevel": 65.97
+   }, 
+   "et": 10.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 531, 
+   "st": 10.6, 
+   "intensity": {
+    "uptonow": 66.78, 
+    "framelevel": 65.35
+   }, 
+   "et": 10.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 536, 
+   "st": 10.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.47
+   }, 
+   "et": 10.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 541, 
+   "st": 10.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.91
+   }, 
+   "et": 10.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 546, 
+   "st": 10.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.34
+   }, 
+   "et": 10.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 551, 
+   "st": 11.0, 
+   "intensity": {
+    "uptonow": 66.76, 
+    "framelevel": 65.98
+   }, 
+   "et": 11.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 556, 
+   "st": 11.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.78
+   }, 
+   "et": 11.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 561, 
+   "st": 11.2, 
+   "intensity": {
+    "uptonow": 66.75, 
+    "framelevel": 67.85
+   }, 
+   "et": 11.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 566, 
+   "st": 11.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.96
+   }, 
+   "et": 11.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 571, 
+   "st": 11.4, 
+   "intensity": {
+    "uptonow": 66.74, 
+    "framelevel": 65.67
+   }, 
+   "et": 11.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 576, 
+   "st": 11.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.2
+   }, 
+   "et": 11.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 581, 
+   "st": 11.6, 
+   "intensity": {
+    "uptonow": 66.73, 
+    "framelevel": 65.2
+   }, 
+   "et": 11.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 586, 
+   "st": 11.7, 
+   "intensity": {
+    "uptonow": 66.74, 
+    "framelevel": 67.26
+   }, 
+   "et": 11.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 591, 
+   "st": 11.8, 
+   "intensity": {
+    "uptonow": 66.73, 
+    "framelevel": 65.58
+   }, 
+   "et": 11.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 596, 
+   "st": 11.9, 
+   "intensity": {
+    "uptonow": 66.72, 
+    "framelevel": 64.69
+   }, 
+   "et": 11.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 601, 
+   "st": 12.0, 
+   "intensity": {
+    "uptonow": 66.71, 
+    "framelevel": 65.86
+   }, 
+   "et": 12.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 606, 
+   "st": 12.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.8
+   }, 
+   "et": 12.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 611, 
+   "st": 12.2, 
+   "intensity": {
+    "uptonow": 66.7, 
+    "framelevel": 64.51
+   }, 
+   "et": 12.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 616, 
+   "st": 12.3, 
+   "intensity": {
+    "uptonow": 66.69, 
+    "framelevel": 66.41
+   }, 
+   "et": 12.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 621, 
+   "st": 12.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.75
+   }, 
+   "et": 12.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 626, 
+   "st": 12.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.79
+   }, 
+   "et": 12.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 631, 
+   "st": 12.6, 
+   "intensity": {
+    "uptonow": 66.68, 
+    "framelevel": 65.59
+   }, 
+   "et": 12.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 636, 
+   "st": 12.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.9
+   }, 
+   "et": 12.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 641, 
+   "st": 12.8, 
+   "intensity": {
+    "uptonow": 66.67, 
+    "framelevel": 66.79
+   }, 
+   "et": 12.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 646, 
+   "st": 12.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.81
+   }, 
+   "et": 12.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 651, 
+   "st": 13.0, 
+   "intensity": {
+    "uptonow": 66.66, 
+    "framelevel": 66.78
+   }, 
+   "et": 13.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 656, 
+   "st": 13.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.85
+   }, 
+   "et": 13.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 661, 
+   "st": 13.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.63
+   }, 
+   "et": 13.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 666, 
+   "st": 13.3, 
+   "intensity": {
+    "uptonow": 66.65, 
+    "framelevel": 66.47
+   }, 
+   "et": 13.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 671, 
+   "st": 13.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.54
+   }, 
+   "et": 13.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 676, 
+   "st": 13.5, 
+   "intensity": {
+    "uptonow": 66.64, 
+    "framelevel": 65.39
+   }, 
+   "et": 13.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 681, 
+   "st": 13.6, 
+   "intensity": {
+    "uptonow": 66.63, 
+    "framelevel": 65.76
+   }, 
+   "et": 13.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 686, 
+   "st": 13.7, 
+   "intensity": {
+    "uptonow": 66.62, 
+    "framelevel": 65.91
+   }, 
+   "et": 13.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 691, 
+   "st": 13.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.62
+   }, 
+   "et": 13.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 696, 
+   "st": 13.9, 
+   "intensity": {
+    "uptonow": 66.61, 
+    "framelevel": 66.69
+   }, 
+   "et": 13.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 701, 
+   "st": 14.0, 
+   "intensity": {
+    "uptonow": 66.6, 
+    "framelevel": 65.02
+   }, 
+   "et": 14.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 706, 
+   "st": 14.1, 
+   "intensity": {
+    "uptonow": 66.59, 
+    "framelevel": 65.28
+   }, 
+   "et": 14.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 711, 
+   "st": 14.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.61
+   }, 
+   "et": 14.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 716, 
+   "st": 14.3, 
+   "intensity": {
+    "uptonow": 66.58, 
+    "framelevel": 65.89
+   }, 
+   "et": 14.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 721, 
+   "st": 14.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.03
+   }, 
+   "et": 14.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 726, 
+   "st": 14.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.78
+   }, 
+   "et": 14.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 731, 
+   "st": 14.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.34
+   }, 
+   "et": 14.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 736, 
+   "st": 14.7, 
+   "intensity": {
+    "uptonow": 66.57, 
+    "framelevel": 66.79
+   }, 
+   "et": 14.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 741, 
+   "st": 14.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.04
+   }, 
+   "et": 14.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 746, 
+   "st": 14.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.46
+   }, 
+   "et": 14.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 751, 
+   "st": 15.0, 
+   "intensity": {
+    "uptonow": 66.56, 
+    "framelevel": 65.92
+   }, 
+   "et": 15.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 756, 
+   "st": 15.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.75
+   }, 
+   "et": 15.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 761, 
+   "st": 15.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.12
+   }, 
+   "et": 15.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 766, 
+   "st": 15.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.82
+   }, 
+   "et": 15.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 771, 
+   "st": 15.4, 
+   "intensity": {
+    "uptonow": 66.55, 
+    "framelevel": 66.43
+   }, 
+   "et": 15.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 776, 
+   "st": 15.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.8
+   }, 
+   "et": 15.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 781, 
+   "st": 15.6, 
+   "intensity": {
+    "uptonow": 66.54, 
+    "framelevel": 66.0
+   }, 
+   "et": 15.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 786, 
+   "st": 15.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.01
+   }, 
+   "et": 15.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 791, 
+   "st": 15.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.58
+   }, 
+   "et": 15.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 796, 
+   "st": 15.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.16
+   }, 
+   "et": 15.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 801, 
+   "st": 16.0, 
+   "intensity": {
+    "uptonow": 66.53, 
+    "framelevel": 67.12
+   }, 
+   "et": 16.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 806, 
+   "st": 16.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.74
+   }, 
+   "et": 16.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 811, 
+   "st": 16.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.65
+   }, 
+   "et": 16.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 816, 
+   "st": 16.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.92
+   }, 
+   "et": 16.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 821, 
+   "st": 16.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.36
+   }, 
+   "et": 16.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 826, 
+   "st": 16.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.68
+   }, 
+   "et": 16.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 831, 
+   "st": 16.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.35
+   }, 
+   "et": 16.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 836, 
+   "st": 16.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.36
+   }, 
+   "et": 16.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 841, 
+   "st": 16.8, 
+   "intensity": {
+    "uptonow": 66.52, 
+    "framelevel": 66.42
+   }, 
+   "et": 16.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 846, 
+   "st": 16.9, 
+   "intensity": {
+    "uptonow": 66.53, 
+    "framelevel": 67.36
+   }, 
+   "et": 16.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 851, 
+   "st": 17.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.14
+   }, 
+   "et": 17.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 856, 
+   "st": 17.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.72
+   }, 
+   "et": 17.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 861, 
+   "st": 17.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.13
+   }, 
+   "et": 17.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 866, 
+   "st": 17.3, 
+   "intensity": {
+    "uptonow": 66.52, 
+    "framelevel": 66.39
+   }, 
+   "et": 17.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 871, 
+   "st": 17.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.02
+   }, 
+   "et": 17.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 876, 
+   "st": 17.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.02
+   }, 
+   "et": 17.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 881, 
+   "st": 17.6, 
+   "intensity": {
+    "uptonow": 66.51, 
+    "framelevel": 66.15
+   }, 
+   "et": 17.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 886, 
+   "st": 17.7, 
+   "intensity": {
+    "uptonow": 66.52, 
+    "framelevel": 66.72
+   }, 
+   "et": 17.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 891, 
+   "st": 17.8, 
+   "intensity": {
+    "uptonow": 66.51, 
+    "framelevel": 64.96
+   }, 
+   "et": 17.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 896, 
+   "st": 17.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.89
+   }, 
+   "et": 17.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 901, 
+   "st": 18.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.9
+   }, 
+   "et": 18.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 906, 
+   "st": 18.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.47
+   }, 
+   "et": 18.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 911, 
+   "st": 18.2, 
+   "intensity": {
+    "uptonow": 66.5, 
+    "framelevel": 66.62
+   }, 
+   "et": 18.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 916, 
+   "st": 18.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.74
+   }, 
+   "et": 18.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 921, 
+   "st": 18.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.42
+   }, 
+   "et": 18.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 926, 
+   "st": 18.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.15
+   }, 
+   "et": 18.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 931, 
+   "st": 18.6, 
+   "intensity": {
+    "uptonow": 66.49, 
+    "framelevel": 67.08
+   }, 
+   "et": 18.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 936, 
+   "st": 18.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.26
+   }, 
+   "et": 18.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 941, 
+   "st": 18.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.18
+   }, 
+   "et": 18.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 946, 
+   "st": 18.9, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.97
+   }, 
+   "et": 18.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 951, 
+   "st": 19.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.98
+   }, 
+   "et": 19.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 956, 
+   "st": 19.1, 
+   "intensity": {
+    "uptonow": 66.48, 
+    "framelevel": 66.37
+   }, 
+   "et": 19.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 961, 
+   "st": 19.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.29
+   }, 
+   "et": 19.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 966, 
+   "st": 19.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.66
+   }, 
+   "et": 19.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 971, 
+   "st": 19.4, 
+   "intensity": {
+    "uptonow": 66.47, 
+    "framelevel": 65.38
+   }, 
+   "et": 19.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 976, 
+   "st": 19.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.92
+   }, 
+   "et": 19.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 981, 
+   "st": 19.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.56
+   }, 
+   "et": 19.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 986, 
+   "st": 19.7, 
+   "intensity": {
+    "uptonow": 66.46, 
+    "framelevel": 66.05
+   }, 
+   "et": 19.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 991, 
+   "st": 19.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.01
+   }, 
+   "et": 19.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 996, 
+   "st": 19.9, 
+   "intensity": {
+    "uptonow": 66.45, 
+    "framelevel": 64.39
+   }, 
+   "et": 19.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1001, 
+   "st": 20.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.68
+   }, 
+   "et": 20.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1006, 
+   "st": 20.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.59
+   }, 
+   "et": 20.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1011, 
+   "st": 20.2, 
+   "intensity": {
+    "uptonow": 66.44, 
+    "framelevel": 64.86
+   }, 
+   "et": 20.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1016, 
+   "st": 20.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 64.93
+   }, 
+   "et": 20.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1021, 
+   "st": 20.4, 
+   "intensity": {
+    "uptonow": 66.43, 
+    "framelevel": 65.26
+   }, 
+   "et": 20.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1026, 
+   "st": 20.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.8
+   }, 
+   "et": 20.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1031, 
+   "st": 20.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.31
+   }, 
+   "et": 20.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1036, 
+   "st": 20.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.06
+   }, 
+   "et": 20.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1041, 
+   "st": 20.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 65.8
+   }, 
+   "et": 20.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1046, 
+   "st": 20.9, 
+   "intensity": {
+    "uptonow": 66.42, 
+    "framelevel": 66.55
+   }, 
+   "et": 20.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1051, 
+   "st": 21.0, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.98
+   }, 
+   "et": 21.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1056, 
+   "st": 21.1, 
+   "intensity": {
+    "uptonow": 66.41, 
+    "framelevel": 66.55
+   }, 
+   "et": 21.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1061, 
+   "st": 21.2, 
+   "intensity": {
+    "uptonow": 66.42, 
+    "framelevel": 67.28
+   }, 
+   "et": 21.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1066, 
+   "st": 21.3, 
+   "intensity": {
+    "uptonow": 66.43, 
+    "framelevel": 67.76
+   }, 
+   "et": 21.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1071, 
+   "st": 21.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.57
+   }, 
+   "et": 21.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1076, 
+   "st": 21.5, 
+   "intensity": {
+    "uptonow": 66.44, 
+    "framelevel": 67.11
+   }, 
+   "et": 21.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1081, 
+   "st": 21.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.17
+   }, 
+   "et": 21.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1086, 
+   "st": 21.7, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.87
+   }, 
+   "et": 21.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1091, 
+   "st": 21.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.13
+   }, 
+   "et": 21.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1096, 
+   "st": 21.9, 
+   "intensity": {
+    "uptonow": 66.45, 
+    "framelevel": 69.18
+   }, 
+   "et": 21.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1101, 
+   "st": 22.0, 
+   "intensity": {
+    "uptonow": 66.46, 
+    "framelevel": 69.09
+   }, 
+   "et": 22.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1106, 
+   "st": 22.1, 
+   "intensity": {
+    "uptonow": 66.47, 
+    "framelevel": 65.79
+   }, 
+   "et": 22.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1111, 
+   "st": 22.2, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.18
+   }, 
+   "et": 22.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1116, 
+   "st": 22.3, 
+   "intensity": {
+    "uptonow": 66.48, 
+    "framelevel": 67.89
+   }, 
+   "et": 22.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1121, 
+   "st": 22.4, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.31
+   }, 
+   "et": 22.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1126, 
+   "st": 22.5, 
+   "intensity": {
+    "uptonow": 66.49, 
+    "framelevel": 67.62
+   }, 
+   "et": 22.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1131, 
+   "st": 22.6, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 67.84
+   }, 
+   "et": 22.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1136, 
+   "st": 22.7, 
+   "intensity": {
+    "uptonow": 66.5, 
+    "framelevel": 68.4
+   }, 
+   "et": 22.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1141, 
+   "st": 22.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.97
+   }, 
+   "et": 22.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1146, 
+   "st": 22.9, 
+   "intensity": {
+    "uptonow": 66.51, 
+    "framelevel": 68.4
+   }, 
+   "et": 22.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1151, 
+   "st": 23.0, 
+   "intensity": {
+    "uptonow": 66.52, 
+    "framelevel": 68.03
+   }, 
+   "et": 23.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1156, 
+   "st": 23.1, 
+   "intensity": {
+    "uptonow": 66.53, 
+    "framelevel": 68.17
+   }, 
+   "et": 23.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1161, 
+   "st": 23.2, 
+   "intensity": {
+    "uptonow": 66.54, 
+    "framelevel": 69.94
+   }, 
+   "et": 23.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1166, 
+   "st": 23.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.18
+   }, 
+   "et": 23.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1171, 
+   "st": 23.4, 
+   "intensity": {
+    "uptonow": 66.55, 
+    "framelevel": 67.65
+   }, 
+   "et": 23.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1176, 
+   "st": 23.5, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.87
+   }, 
+   "et": 23.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1181, 
+   "st": 23.6, 
+   "intensity": {
+    "uptonow": 66.56, 
+    "framelevel": 67.73
+   }, 
+   "et": 23.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1186, 
+   "st": 23.7, 
+   "intensity": {
+    "uptonow": 66.57, 
+    "framelevel": 67.1
+   }, 
+   "et": 23.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1191, 
+   "st": 23.8, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.4
+   }, 
+   "et": 23.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1196, 
+   "st": 23.9, 
+   "intensity": {
+    "uptonow": 66.58, 
+    "framelevel": 68.35
+   }, 
+   "et": 23.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1201, 
+   "st": 24.0, 
+   "intensity": {
+    "uptonow": 66.59, 
+    "framelevel": 68.06
+   }, 
+   "et": 24.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1206, 
+   "st": 24.1, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 66.44
+   }, 
+   "et": 24.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1211, 
+   "st": 24.2, 
+   "intensity": {
+    "uptonow": 66.6, 
+    "framelevel": 68.47
+   }, 
+   "et": 24.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": null, 
+   "no": 1216, 
+   "st": 24.3, 
+   "intensity": {
+    "uptonow": null, 
+    "framelevel": 68.76
+   }, 
+   "et": 24.32, 
+   "aced": null
+  }
+ ]
+}

@@ -1,0 +1,6699 @@
+{
+ "frames": [
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 1, 
+   "st": 0.0, 
+   "intensity": {
+    "uptonow": 39.01, 
+    "framelevel": 39.01
+   }, 
+   "et": 0.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 6, 
+   "st": 0.1, 
+   "intensity": {
+    "uptonow": 35.47, 
+    "framelevel": 29.88
+   }, 
+   "et": 0.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 11, 
+   "st": 0.2, 
+   "intensity": {
+    "uptonow": 38.81, 
+    "framelevel": 47.77
+   }, 
+   "et": 0.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 16, 
+   "st": 0.3, 
+   "intensity": {
+    "uptonow": 39.53, 
+    "framelevel": 32.87
+   }, 
+   "et": 0.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 21, 
+   "st": 0.4, 
+   "intensity": {
+    "uptonow": 38.92, 
+    "framelevel": 45.26
+   }, 
+   "et": 0.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 26, 
+   "st": 0.5, 
+   "intensity": {
+    "uptonow": 39.8, 
+    "framelevel": 39.0
+   }, 
+   "et": 0.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 31, 
+   "st": 0.6, 
+   "intensity": {
+    "uptonow": 39.46, 
+    "framelevel": 44.23
+   }, 
+   "et": 0.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 36, 
+   "st": 0.7, 
+   "intensity": {
+    "uptonow": 40.21, 
+    "framelevel": 40.41
+   }, 
+   "et": 0.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 41, 
+   "st": 0.8, 
+   "intensity": {
+    "uptonow": 40.4, 
+    "framelevel": 36.96
+   }, 
+   "et": 0.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 46, 
+   "st": 0.9, 
+   "intensity": {
+    "uptonow": 40.58, 
+    "framelevel": 47.83
+   }, 
+   "et": 0.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 51, 
+   "st": 1.0, 
+   "intensity": {
+    "uptonow": 40.68, 
+    "framelevel": 34.49
+   }, 
+   "et": 1.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 56, 
+   "st": 1.1, 
+   "intensity": {
+    "uptonow": 40.64, 
+    "framelevel": 43.27
+   }, 
+   "et": 1.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 61, 
+   "st": 1.2, 
+   "intensity": {
+    "uptonow": 40.18, 
+    "framelevel": 39.7
+   }, 
+   "et": 1.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 66, 
+   "st": 1.3, 
+   "intensity": {
+    "uptonow": 40.0, 
+    "framelevel": 43.56
+   }, 
+   "et": 1.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 71, 
+   "st": 1.4, 
+   "intensity": {
+    "uptonow": 39.77, 
+    "framelevel": 30.53
+   }, 
+   "et": 1.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 76, 
+   "st": 1.5, 
+   "intensity": {
+    "uptonow": 39.88, 
+    "framelevel": 39.6
+   }, 
+   "et": 1.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 81, 
+   "st": 1.6, 
+   "intensity": {
+    "uptonow": 40.43, 
+    "framelevel": 47.89
+   }, 
+   "et": 1.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 86, 
+   "st": 1.7, 
+   "intensity": {
+    "uptonow": 40.59, 
+    "framelevel": 38.46
+   }, 
+   "et": 1.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 91, 
+   "st": 1.8, 
+   "intensity": {
+    "uptonow": 40.23, 
+    "framelevel": 33.13
+   }, 
+   "et": 1.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 96, 
+   "st": 1.9, 
+   "intensity": {
+    "uptonow": 39.86, 
+    "framelevel": 31.62
+   }, 
+   "et": 1.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 101, 
+   "st": 2.0, 
+   "intensity": {
+    "uptonow": 39.87, 
+    "framelevel": 41.15
+   }, 
+   "et": 2.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 106, 
+   "st": 2.1, 
+   "intensity": {
+    "uptonow": 40.38, 
+    "framelevel": 57.2
+   }, 
+   "et": 2.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 111, 
+   "st": 2.2, 
+   "intensity": {
+    "uptonow": 40.96, 
+    "framelevel": 47.52
+   }, 
+   "et": 2.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 116, 
+   "st": 2.3, 
+   "intensity": {
+    "uptonow": 41.37, 
+    "framelevel": 55.43
+   }, 
+   "et": 2.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 121, 
+   "st": 2.4, 
+   "intensity": {
+    "uptonow": 41.68, 
+    "framelevel": 44.77
+   }, 
+   "et": 2.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 126, 
+   "st": 2.5, 
+   "intensity": {
+    "uptonow": 41.99, 
+    "framelevel": 54.35
+   }, 
+   "et": 2.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 131, 
+   "st": 2.6, 
+   "intensity": {
+    "uptonow": 42.04, 
+    "framelevel": 31.15
+   }, 
+   "et": 2.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 136, 
+   "st": 2.7, 
+   "intensity": {
+    "uptonow": 42.1, 
+    "framelevel": 52.86
+   }, 
+   "et": 2.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 141, 
+   "st": 2.8, 
+   "intensity": {
+    "uptonow": 42.49, 
+    "framelevel": 51.58
+   }, 
+   "et": 2.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 146, 
+   "st": 2.9, 
+   "intensity": {
+    "uptonow": 42.86, 
+    "framelevel": 53.64
+   }, 
+   "et": 2.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 2.0
+     }, 
+     "positivity": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 151, 
+   "st": 3.0, 
+   "intensity": {
+    "uptonow": 43.03, 
+    "framelevel": 39.38
+   }, 
+   "et": 3.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.48, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 156, 
+   "st": 3.1, 
+   "intensity": {
+    "uptonow": 42.87, 
+    "framelevel": 38.99
+   }, 
+   "et": 3.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.47, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 161, 
+   "st": 3.2, 
+   "intensity": {
+    "uptonow": 42.98, 
+    "framelevel": 46.65
+   }, 
+   "et": 3.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.46, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 166, 
+   "st": 3.3, 
+   "intensity": {
+    "uptonow": 42.91, 
+    "framelevel": 41.1
+   }, 
+   "et": 3.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.44, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 171, 
+   "st": 3.4, 
+   "intensity": {
+    "uptonow": 42.74, 
+    "framelevel": 38.42
+   }, 
+   "et": 3.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.43, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 176, 
+   "st": 3.5, 
+   "intensity": {
+    "uptonow": 42.94, 
+    "framelevel": 50.17
+   }, 
+   "et": 3.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.42, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 181, 
+   "st": 3.6, 
+   "intensity": {
+    "uptonow": 43.12, 
+    "framelevel": 48.76
+   }, 
+   "et": 3.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.41, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 186, 
+   "st": 3.7, 
+   "intensity": {
+    "uptonow": 43.14, 
+    "framelevel": 40.62
+   }, 
+   "et": 3.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.4, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 191, 
+   "st": 3.8, 
+   "intensity": {
+    "uptonow": 43.28, 
+    "framelevel": 56.13
+   }, 
+   "et": 3.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.39, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 196, 
+   "st": 3.9, 
+   "intensity": {
+    "uptonow": 43.42, 
+    "framelevel": 46.89
+   }, 
+   "et": 3.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.38, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 201, 
+   "st": 4.0, 
+   "intensity": {
+    "uptonow": 43.56, 
+    "framelevel": 50.98
+   }, 
+   "et": 4.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.37, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 206, 
+   "st": 4.1, 
+   "intensity": {
+    "uptonow": 43.73, 
+    "framelevel": 44.71
+   }, 
+   "et": 4.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.36, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 211, 
+   "st": 4.2, 
+   "intensity": {
+    "uptonow": 43.72, 
+    "framelevel": 46.28
+   }, 
+   "et": 4.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.35, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 216, 
+   "st": 4.3, 
+   "intensity": {
+    "uptonow": 43.74, 
+    "framelevel": 43.31
+   }, 
+   "et": 4.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.34, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 221, 
+   "st": 4.4, 
+   "intensity": {
+    "uptonow": 43.71, 
+    "framelevel": 50.38
+   }, 
+   "et": 4.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.34, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 226, 
+   "st": 4.5, 
+   "intensity": {
+    "uptonow": 43.65, 
+    "framelevel": 38.66
+   }, 
+   "et": 4.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.33, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 231, 
+   "st": 4.6, 
+   "intensity": {
+    "uptonow": 43.51, 
+    "framelevel": 36.16
+   }, 
+   "et": 4.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.32, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 236, 
+   "st": 4.7, 
+   "intensity": {
+    "uptonow": 43.38, 
+    "framelevel": 45.69
+   }, 
+   "et": 4.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.32, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 241, 
+   "st": 4.8, 
+   "intensity": {
+    "uptonow": 43.37, 
+    "framelevel": 39.25
+   }, 
+   "et": 4.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.31, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 246, 
+   "st": 4.9, 
+   "intensity": {
+    "uptonow": 43.19, 
+    "framelevel": 34.08
+   }, 
+   "et": 4.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.3, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 251, 
+   "st": 5.0, 
+   "intensity": {
+    "uptonow": 43.3, 
+    "framelevel": 52.02
+   }, 
+   "et": 5.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.3, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 256, 
+   "st": 5.1, 
+   "intensity": {
+    "uptonow": 43.26, 
+    "framelevel": 39.6
+   }, 
+   "et": 5.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.29, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 261, 
+   "st": 5.2, 
+   "intensity": {
+    "uptonow": 43.29, 
+    "framelevel": 49.91
+   }, 
+   "et": 5.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.29, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 266, 
+   "st": 5.3, 
+   "intensity": {
+    "uptonow": 43.32, 
+    "framelevel": 43.02
+   }, 
+   "et": 5.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.28, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 271, 
+   "st": 5.4, 
+   "intensity": {
+    "uptonow": 43.28, 
+    "framelevel": 47.9
+   }, 
+   "et": 5.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.28, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 276, 
+   "st": 5.5, 
+   "intensity": {
+    "uptonow": 43.42, 
+    "framelevel": 49.21
+   }, 
+   "et": 5.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.27, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 281, 
+   "st": 5.6, 
+   "intensity": {
+    "uptonow": 43.41, 
+    "framelevel": 51.36
+   }, 
+   "et": 5.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.27, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 286, 
+   "st": 5.7, 
+   "intensity": {
+    "uptonow": 43.6, 
+    "framelevel": 52.09
+   }, 
+   "et": 5.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.26, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 291, 
+   "st": 5.8, 
+   "intensity": {
+    "uptonow": 43.54, 
+    "framelevel": 36.38
+   }, 
+   "et": 5.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.26, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 296, 
+   "st": 5.9, 
+   "intensity": {
+    "uptonow": 42.92, 
+    "framelevel": 0.0
+   }, 
+   "et": 5.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 6.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 2.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.25, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.5, 
+      "framelevel": 4.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 301, 
+   "st": 6.0, 
+   "intensity": {
+    "uptonow": 42.21, 
+    "framelevel": null
+   }, 
+   "et": 6.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.25, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.49, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.51, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 306, 
+   "st": 6.1, 
+   "intensity": {
+    "uptonow": 41.52, 
+    "framelevel": null
+   }, 
+   "et": 6.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.25, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.48, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.52, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 311, 
+   "st": 6.2, 
+   "intensity": {
+    "uptonow": 40.85, 
+    "framelevel": null
+   }, 
+   "et": 6.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.24, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.48, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.52, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 316, 
+   "st": 6.3, 
+   "intensity": {
+    "uptonow": 40.21, 
+    "framelevel": null
+   }, 
+   "et": 6.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.24, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.47, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.53, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 321, 
+   "st": 6.4, 
+   "intensity": {
+    "uptonow": 39.58, 
+    "framelevel": null
+   }, 
+   "et": 6.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.23, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.46, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.54, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 326, 
+   "st": 6.5, 
+   "intensity": {
+    "uptonow": 38.97, 
+    "framelevel": null
+   }, 
+   "et": 6.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.23, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.46, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.54, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 331, 
+   "st": 6.6, 
+   "intensity": {
+    "uptonow": 38.38, 
+    "framelevel": null
+   }, 
+   "et": 6.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.23, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.45, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.55, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 336, 
+   "st": 6.7, 
+   "intensity": {
+    "uptonow": 37.81, 
+    "framelevel": null
+   }, 
+   "et": 6.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.22, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.44, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.56, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 341, 
+   "st": 6.8, 
+   "intensity": {
+    "uptonow": 37.26, 
+    "framelevel": null
+   }, 
+   "et": 6.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.22, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.44, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.56, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 346, 
+   "st": 6.9, 
+   "intensity": {
+    "uptonow": 36.72, 
+    "framelevel": null
+   }, 
+   "et": 6.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.22, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.43, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.57, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 351, 
+   "st": 7.0, 
+   "intensity": {
+    "uptonow": 36.2, 
+    "framelevel": null
+   }, 
+   "et": 7.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.22, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.42, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.58, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 356, 
+   "st": 7.1, 
+   "intensity": {
+    "uptonow": 35.69, 
+    "framelevel": null
+   }, 
+   "et": 7.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.21, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.42, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.58, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 361, 
+   "st": 7.2, 
+   "intensity": {
+    "uptonow": 35.79, 
+    "framelevel": 46.44
+   }, 
+   "et": 7.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.21, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.41, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.59, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 366, 
+   "st": 7.3, 
+   "intensity": {
+    "uptonow": 35.95, 
+    "framelevel": 49.13
+   }, 
+   "et": 7.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.21, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.41, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.59, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 371, 
+   "st": 7.4, 
+   "intensity": {
+    "uptonow": 36.1, 
+    "framelevel": 47.16
+   }, 
+   "et": 7.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.2, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.4, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.6, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 376, 
+   "st": 7.5, 
+   "intensity": {
+    "uptonow": 36.2, 
+    "framelevel": 44.12
+   }, 
+   "et": 7.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.2, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.4, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.6, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 381, 
+   "st": 7.6, 
+   "intensity": {
+    "uptonow": 36.36, 
+    "framelevel": 48.85
+   }, 
+   "et": 7.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.2, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.39, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.61, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 386, 
+   "st": 7.7, 
+   "intensity": {
+    "uptonow": 36.51, 
+    "framelevel": 46.1
+   }, 
+   "et": 7.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.2, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.39, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.61, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 391, 
+   "st": 7.8, 
+   "intensity": {
+    "uptonow": 36.14, 
+    "framelevel": 0.0
+   }, 
+   "et": 7.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.19, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.38, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.62, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 396, 
+   "st": 7.9, 
+   "intensity": {
+    "uptonow": 35.69, 
+    "framelevel": null
+   }, 
+   "et": 7.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.19, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.38, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.62, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 401, 
+   "st": 8.0, 
+   "intensity": {
+    "uptonow": 35.24, 
+    "framelevel": null
+   }, 
+   "et": 8.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.19, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.37, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.63, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 406, 
+   "st": 8.1, 
+   "intensity": {
+    "uptonow": 34.81, 
+    "framelevel": null
+   }, 
+   "et": 8.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.19, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.37, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.63, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 411, 
+   "st": 8.2, 
+   "intensity": {
+    "uptonow": 34.39, 
+    "framelevel": null
+   }, 
+   "et": 8.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.18, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.36, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.64, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 416, 
+   "st": 8.3, 
+   "intensity": {
+    "uptonow": 33.97, 
+    "framelevel": null
+   }, 
+   "et": 8.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.18, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.36, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.64, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 421, 
+   "st": 8.4, 
+   "intensity": {
+    "uptonow": 33.57, 
+    "framelevel": null
+   }, 
+   "et": 8.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.18, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 426, 
+   "st": 8.5, 
+   "intensity": {
+    "uptonow": 33.17, 
+    "framelevel": null
+   }, 
+   "et": 8.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.18, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 431, 
+   "st": 8.6, 
+   "intensity": {
+    "uptonow": 32.79, 
+    "framelevel": null
+   }, 
+   "et": 8.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.18, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 436, 
+   "st": 8.7, 
+   "intensity": {
+    "uptonow": 32.41, 
+    "framelevel": null
+   }, 
+   "et": 8.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.17, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 441, 
+   "st": 8.8, 
+   "intensity": {
+    "uptonow": 32.05, 
+    "framelevel": null
+   }, 
+   "et": 8.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.17, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 446, 
+   "st": 8.9, 
+   "intensity": {
+    "uptonow": 31.69, 
+    "framelevel": null
+   }, 
+   "et": 8.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.17, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 2.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 3.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 451, 
+   "st": 9.0, 
+   "intensity": {
+    "uptonow": 31.34, 
+    "framelevel": null
+   }, 
+   "et": 9.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.17, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 456, 
+   "st": 9.1, 
+   "intensity": {
+    "uptonow": 30.99, 
+    "framelevel": null
+   }, 
+   "et": 9.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.17, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 461, 
+   "st": 9.2, 
+   "intensity": {
+    "uptonow": 30.66, 
+    "framelevel": null
+   }, 
+   "et": 9.22, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 466, 
+   "st": 9.3, 
+   "intensity": {
+    "uptonow": 30.33, 
+    "framelevel": null
+   }, 
+   "et": 9.32, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 471, 
+   "st": 9.4, 
+   "intensity": {
+    "uptonow": 30.01, 
+    "framelevel": null
+   }, 
+   "et": 9.42, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.34, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.66, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 476, 
+   "st": 9.5, 
+   "intensity": {
+    "uptonow": 29.69, 
+    "framelevel": null
+   }, 
+   "et": 9.52, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 481, 
+   "st": 9.6, 
+   "intensity": {
+    "uptonow": 29.56, 
+    "framelevel": 41.89
+   }, 
+   "et": 9.62, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 486, 
+   "st": 9.7, 
+   "intensity": {
+    "uptonow": 29.69, 
+    "framelevel": 42.09
+   }, 
+   "et": 9.72, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 491, 
+   "st": 9.8, 
+   "intensity": {
+    "uptonow": 29.82, 
+    "framelevel": 44.42
+   }, 
+   "et": 9.82, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.16, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 496, 
+   "st": 9.9, 
+   "intensity": {
+    "uptonow": 30.0, 
+    "framelevel": 46.17
+   }, 
+   "et": 9.92, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.15, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 501, 
+   "st": 10.0, 
+   "intensity": {
+    "uptonow": 30.12, 
+    "framelevel": 45.34
+   }, 
+   "et": 10.02, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.15, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 506, 
+   "st": 10.1, 
+   "intensity": {
+    "uptonow": 30.3, 
+    "framelevel": 41.29
+   }, 
+   "et": 10.12, 
+   "aced": null
+  }, 
+  {
+   "speakers": [
+    {
+     "emotion": {
+      "uptonow": null, 
+      "framelevel": 4.0
+     }, 
+     "tone_variety": {
+      "uptonow": 0.0, 
+      "framelevel": 1.0
+     }, 
+     "strength": {
+      "uptonow": 0.5, 
+      "framelevel": 2.0
+     }, 
+     "success": null, 
+     "language": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "gender": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "positivity": {
+      "uptonow": 0.15, 
+      "framelevel": 1.0
+     }, 
+     "engagement": {
+      "uptonow": 1.0, 
+      "framelevel": 3.0
+     }, 
+     "speaking_rate": {
+      "uptonow": 0.35, 
+      "framelevel": 3.0
+     }, 
+     "vad": null, 
+     "id": 0, 
+     "beep": null, 
+     "f0": null, 
+     "snr": null, 
+     "activation": null, 
+     "politeness": {
+      "uptonow": 0.65, 
+      "framelevel": 2.0
+     }, 
+     "ring": null, 
+     "valence": null, 
+     "resolution": null, 
+     "age": {
+      "uptonow": 1.0, 
+      "framelevel": 1.0
+     }, 
+     "escalation": null
+    }
+   ], 
+   "no": 511, 
+   "st": 10.2, 
+   "intensity": {
+    "uptonow": 30.38, 
+    "framelevel": 41.22
+   }, 
+   "et": 10.22, 
+   "aced": null
+  }
+ ]
+}
