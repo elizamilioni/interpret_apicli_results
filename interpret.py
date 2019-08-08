@@ -5,7 +5,7 @@ import glob
 import numpy as np
 import matplotlib.pyplot as plt
 
-PATH = "/home/liz/github_repos/api-cli/results_frame"
+PATH = os.getcwd()
 
 def interpret(direc, mode):
     pos = []
